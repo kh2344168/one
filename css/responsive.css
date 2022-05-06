@@ -1,0 +1,302 @@
+@media (max-width: 768px) {
+    .services .item-one p{
+        width: 100%;
+}
+    }
+
+@media (max-width: 575px) {
+  .home .container{
+    height:50vh;
+  }
+  .content{
+    width: 85%;
+  }
+  .contant-services .services-item {
+    text-align: center;
+}
+.services-item i {
+  width: 100%;
+}
+.services-item p {
+
+  margin-left: 0;
+}
+.services-item h2 {
+
+  margin: 0;
+
+}
+.contant-services-tow .img .frist {
+  position: relative;
+  left: 50px;
+  transform: translateX(-50%);
+  z-index: 10;
+  width: 130px;
+  /* text-align: center; */
+}
+.contant-services-tow .img .last {
+  position: relative;
+  left: -50px;
+  width: 108px;
+}
+    .services .item-one p{
+        width: 100%;
+}
+.contant-services-tow .designs h3 {
+  color: var(--colorline);
+  margin: 0;
+  font-size: 17px;
+  font-weight: 100;
+}
+.contant-services-tow .designs ul {
+  margin-left: 0;
+}
+.portfolo .item-one {
+  margin-top: 400px;
+}
+.portfolo .prodact img {
+  width: 45%;
+  height: 102px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  margin: 0px 6px 0 6px;
+}
+
+  .services .item-one {
+    margin: 125px 0 63px 0;
+}
+.about-us {
+  margin-top: 10vh;
+}
+.apout-img img{
+  width: 100%;
+}
+.about-us-three .testimonials {
+  width: 100%;
+  margin-bottom: 20vh;
+  text-align: center;
+}
+.completed i {
+
+  font-size: 17px;
+  margin: 10px auto;
+}
+.completed i:after {
+  content: "";
+  border-bottom: 70px #000;
+  border-top: 30px transparent;
+  border-left: 30px transparent;
+  border-right: 31px transparent;
+  border-style: solid;
+  position: absolute;
+  left: 50%;
+  top: -90%;
+  transform: translateX(-50%);
+  z-index: -1;
+  
+    } 
+  .completed .contaner .item {
+    width: 48%;
+    margin: 10px 0;
+  }
+  .completed span {
+    color: var(--colorline);
+    font-size: 11px;
+}
+  .completed .contaner{
+    padding: 0;
+    height: 70%;
+  }
+  .completed .contaner {
+    display: flex;
+
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .completed .number {
+    color: var(--colorline);
+    font-size: 23px;
+    margin: 10px 10px 10px 10px;
+    font-weight: bold;
+}
+.about-us-three .testimonials h2 {
+  font-size: 34px;
+}
+.about-us-three .testimonials > p{
+  margin: 0;
+}
+.about-us-three .testimonials-img .one {
+  justify-content: center;
+}
+.about-us-three .testimonials-img .tow {
+  justify-content: center;
+}
+.about-us-three .skills h2 {
+  font-size: 33px;
+}
+.about-us-three .skills p{
+  margin: 0;
+}
+.about-us-three .skills .spanes {
+  margin: 30px 25px 0px -13px;
+}
+.about-us .end p {
+
+  padding: 0;
+  font-size: 15px;
+  line-height: 32px;
+}
+.services .item-one {
+  margin: 70px 0 63px 0;
+}
+.pricing .pricing-one .basci {
+  width: calc(100% / 2 - 20px);
+  border-top: 1px solid var(--mancolor);
+  border-bottom: 1px solid var(--mancolor);
+  height: 33vh;
+  text-align: center;
+  margin-top: -16vh;
+  margin: 0 0px 20vh 0;
+}
+.pricing .pricing-one .basci p {
+  margin: 7px 0;
+  font-size: 16px;
+}
+.pricing .pricing-one .basci span {
+  font-size: 30px;
+  font-weight: bold;
+}
+.pricing .pricing-one .basci ul {
+  border-top: 1px solid var(--mancolor);
+  height: 24vh;
+}
+.pricing .pricing-one .basci ul li {
+  border-top: 1px solid var(--mancolor);
+  width: 70%;
+  margin: auto;
+  padding: 5px;
+  font-size: 11px;
+}
+.pricing .pricing-one .basci button {
+  margin: 0vh 0;
+  padding: 7px 8px;
+  background: none;
+  outline: none;
+  border: 1px solid var(--mancolor);
+  text-transform: uppercase;
+}
+.pricing .pricing-one .basci span {
+  width: 30px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.pricing-tow .email .supscrip {
+  width: 100%;
+}
+.pricing-tow .email input{
+  padding-left: 10px;
+}
+.pricing-tow .email button{
+  width: 30%;
+  font-size: 11px;
+}
+.contact-us .contaner input {
+  width: 100%;
+
+}
+.contact-us .contaner textarea {
+  width: 100%;
+
+}
+.up.show {
+  right: 15px;
+  transition: .8s;
+}
+.services {
+  margin: 65vh 0px 0 0;
+}
+.pricing .services {
+  margin: 0;
+}
+.onekk{
+  margin: 0;
+}
+footer h2{
+  font-size: 3vh;
+}
+footer p{
+  font-size: 10px;
+}
+.pricing-tow .email P {
+  max-width: 85%;
+  color: var(--colorline);
+  display: inline;
+  font-size: 15px;
+  line-height: 41px;
+}
+.contact-us .services{
+  margin: 15vh 0px 0 0;
+}
+
+navbar .content {
+  width: 80%;
+}
+.popup-box img{
+  width: 100%;
+}
+.change {
+  width: 20vh;
+  height: 16vh;
+  background: #fff;
+  position: fixed;
+  left: -164px;
+  right: 0;
+  z-index: 10;
+  text-align: center;
+  padding: 0;
+  margin: 89px 0 0 0;
+  transition: left .5s;
+  border: 2px solid var(--mancolor);
+}
+
+.change i {
+  position: absolute;
+  left: 160px;
+  top: -2px;
+  color: #000;
+  font-size: 17px;
+  background: rgb(255, 255, 255);
+  padding: 7px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* Medium
+  @media (min-width: 992px) {
+    .contaner {
+      width: 970px;
+    }
+  }
+  /* Large */
+  /* @media (min-width: 1200px) {
+    .contaner {
+      width: 1170px;
+    }
+  } */ 
